@@ -1,0 +1,143 @@
+[[Gotree]]
+arch = "aarch64"
+git-tree-sha1 = "eb6a28aa115909e9dbf2104f3bf288c51b34f308"
+os = "macos"
+
+    [[Gotree.download]]
+    sha256 = "7e249ac282227adfd4c84da7552a44acac5af6cc622566e5d5911db32c9a7b41"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.aarch64-apple-darwin.tar.gz"
+[[Gotree]]
+arch = "aarch64"
+git-tree-sha1 = "0c1e32dcac68fee7bb0218660a04423077dc019c"
+libc = "glibc"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "845aef7d237726f400dd614cd5cff39d83f2909d12831046142cacdab37375c8"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.aarch64-linux-gnu.tar.gz"
+[[Gotree]]
+arch = "aarch64"
+git-tree-sha1 = "9b7de43ae1a7bd7cf5a6a8a23af3a40910a8916d"
+libc = "musl"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "a31aaf1d10133584c1dba70017318c52328c48f2111c75d1585e070812cd165c"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.aarch64-linux-musl.tar.gz"
+[[Gotree]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7a0f3f78868188ad3de6dec570f96dff4e6c050c"
+libc = "glibc"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "f8bdf1e89eabba2d563f2f2ba67b2447fb9a6e50f77611c7bc51af721a35a2dc"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.armv6l-linux-gnueabihf.tar.gz"
+[[Gotree]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4d9b94f9299f73af0ecd2616135b2a4d98497911"
+libc = "musl"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "bfb39a07054c9c68dc9ab23194342e1d4acd4e91ab887e3e565d8bd2b97ee052"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.armv6l-linux-musleabihf.tar.gz"
+[[Gotree]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b99510f498601944c243d9ec8827a66d45d0949"
+libc = "glibc"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "66e3ee131e53b0e69f367701d45e64316233b8fcd5c77509b50334f9b28d03a0"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.armv7l-linux-gnueabihf.tar.gz"
+[[Gotree]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fa30c36b9b07e262cacec6a2b476bd7fc04edce6"
+libc = "musl"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "3a1a2125efc741985359d74d68f314932da28a88b39d29a3beaaaca6386cfe76"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.armv7l-linux-musleabihf.tar.gz"
+[[Gotree]]
+arch = "i686"
+git-tree-sha1 = "0d8d657933749c4b9d8792fd75f89bf716b558cd"
+libc = "glibc"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "763136ea12f0a25770d09bfec451a737328915b9d9ed22d4fe2d28aeb9a4f3d4"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.i686-linux-gnu.tar.gz"
+[[Gotree]]
+arch = "i686"
+git-tree-sha1 = "efeb4ca8accff311a5bdc16760faeace12b2ddf2"
+libc = "musl"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "90cf08e6bd5eb248d907203b12112efddba374134b3eded3e0a8ff9caba172c0"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.i686-linux-musl.tar.gz"
+[[Gotree]]
+arch = "i686"
+git-tree-sha1 = "e3e4d54d9c9cc623e01a326fa9b57f3e1218abcb"
+os = "windows"
+
+    [[Gotree.download]]
+    sha256 = "2fbf5f4a4b59807fee8239605d0e4a3e7390060e60c273a24e287a2cc29c8057"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.i686-w64-mingw32.tar.gz"
+[[Gotree]]
+arch = "powerpc64le"
+git-tree-sha1 = "ac1c19d2807f0c329d364af164c34e47db50ea3e"
+libc = "glibc"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "86125066bb86baabe0713be2465d0b1574f50c10637cd778e6538731de6d801d"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.powerpc64le-linux-gnu.tar.gz"
+[[Gotree]]
+arch = "x86_64"
+git-tree-sha1 = "c369ee0388608fd926c86154ff68651cb9120d3d"
+os = "macos"
+
+    [[Gotree.download]]
+    sha256 = "1518475a6e0f516b5716a22418f6f73fe67f7ca28f23cedd2b79c83177a296e0"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.x86_64-apple-darwin.tar.gz"
+[[Gotree]]
+arch = "x86_64"
+git-tree-sha1 = "71508c40105a1c3f281717ecb4880959158e6656"
+libc = "glibc"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "2f8a8dff737fc51c4dd30cce9bce42af5d88d947ccc9ecc5c9975f28fc1d412d"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.x86_64-linux-gnu.tar.gz"
+[[Gotree]]
+arch = "x86_64"
+git-tree-sha1 = "0b90b92fd30e02950584e8304c9da4b7adff61e3"
+libc = "musl"
+os = "linux"
+
+    [[Gotree.download]]
+    sha256 = "e0fb644a8720f7b4d7e00865df7daabaf6a4a79e1d27a7b297f8eb92984f187b"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.x86_64-linux-musl.tar.gz"
+[[Gotree]]
+arch = "x86_64"
+git-tree-sha1 = "7e2d2079b664279e9bd535dd6c53e96aa94ab8b3"
+os = "freebsd"
+
+    [[Gotree.download]]
+    sha256 = "2bd9847d0c055c592d5f8672b8f52ad7f265310403f8c364e7310dba54f9caa6"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.x86_64-unknown-freebsd.tar.gz"
+[[Gotree]]
+arch = "x86_64"
+git-tree-sha1 = "21ea4cdf375ee88871085fdfb113d9e285909c8f"
+os = "windows"
+
+    [[Gotree.download]]
+    sha256 = "c5a74a629063459252ac38e3ffeab8d658aa41729110e5480bb948a83ed5cd21"
+    url = "https://github.com/JuliaBinaryWrappers/Gotree_jll.jl/releases/download/Gotree-v0.4.2+0/Gotree.v0.4.2.x86_64-w64-mingw32.tar.gz"
